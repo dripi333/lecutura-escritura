@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1602048961 source:c:\users\dripi\desktop\desktop\escritura\lectura\main.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<cstring>
+	<sstream>
+	"estructura.h"
+
+1602172288 c:\users\dripi\desktop\desktop\escritura\lectura\estructura.h
+	<fstream>
+
+1602214842 source:c:\users\dripi\desktop\desktop\escritura\lectura\estructura.cpp
+	<iostream>
+	<string>
+	<fstream>
+	"estructura.h"
+
